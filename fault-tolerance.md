@@ -15,7 +15,8 @@ System has components (modules)
 - Each module has an ideal specified behavior
 
 ## Faults, Errors, and Failures (+ Example)
-* **Fault** - module deviates from specified behavior
+* **Fault** - def: The event that leads to the first error.
+* Module deviates from specified behavior
   * Example: Programming mistake
     * Add function that works fine, except 5+3 = 7
     * Latent Error (only a matter of time until activated)
